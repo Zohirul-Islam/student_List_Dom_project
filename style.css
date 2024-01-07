@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#29313f;
+}
+.userdata_container{
+    min-height: 732px;
+    width: 600px;
+    background-color: #fff;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 174px;
+    padding: 15px;
+    margin: 50px auto;
+
+}
+.actionbutton{
+    background: chocolate;
+}
